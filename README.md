@@ -1,4 +1,4 @@
-# GPIO-Controlled Smart Room Light
+S# GPIO-Controlled Smart Room Light
 
 A Moore Finite State Machine (FSM) based Smart Room Light Controller implemented in Verilog HDL.
 
@@ -16,6 +16,17 @@ The design was:
 - Simulated using Icarus Verilog
 - Verified using GTKWave
 - Synthesized using Yosys
+
+---
+## Block Diagram
+
+![Block Diagram](images/block_diagram.png)
+
+---
+
+## Moore FSM
+
+![FSM Diagram](images/fsm_diagram.png)
 
 ---
 
