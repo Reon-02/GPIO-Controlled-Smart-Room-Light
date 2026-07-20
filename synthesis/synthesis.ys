@@ -1,0 +1,7 @@
+read_verilog rtl/smart_light.v
+hierarchy -top smart_light
+proc
+opt
+fsm
+opt
+show
