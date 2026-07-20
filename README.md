@@ -1,4 +1,6 @@
-S# GPIO-Controlled Smart Room Light
+# GPIO-Controlled Smart Room Light
+
+![Project Banner](images/banner.png)
 
 A Moore Finite State Machine (FSM) based Smart Room Light Controller implemented in Verilog HDL.
 
